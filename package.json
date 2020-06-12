@@ -1,0 +1,21 @@
+{
+  "name": "@logicamente.info/global-emitter",
+  "version": "1.0.0",
+  "description": "A global storage that emits events when an item changes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Test what?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/logicamenteinfo/global-emitter.git"
+  },
+  "keywords": [
+    "global",
+    "emmit",
+    "storage"
+  ],
+  "author": "Logicamente Info",
+  "homepage": "https://logicamente.info",
+  "license": "MIT"
+}
